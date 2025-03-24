@@ -5,6 +5,8 @@ A simple Flutter application that displays a digital business card.
 
 
 ✨ Features
+
+
 Displays a profile picture, name, and business title.
 
 Allows users to input their phone number and email.
